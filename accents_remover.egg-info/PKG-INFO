@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: accents_remover
-Version: 0.1.1
+Version: 0.1.2
 Summary: A function to remove string accents withouth changing other characters
 Home-page: https://github.com/lincolnolivr/accents_remover-pylib.git
 Author: Lincoln Oliver
@@ -10,5 +10,5 @@ Keywords: remove accents
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# remove_accents-pylib
+# accents_remover-pylib
 Function to remove accents without changing other types of characters
