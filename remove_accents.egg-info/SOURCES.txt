@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-remove_accents.egg-info/PKG-INFO
-remove_accents.egg-info/SOURCES.txt
-remove_accents.egg-info/dependency_links.txt
-remove_accents.egg-info/top_level.txt
-src/__init__.py
-src/remove_accents.py

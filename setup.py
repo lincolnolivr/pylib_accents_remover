@@ -4,7 +4,7 @@ with open('README.md', 'r') as file:
     readme = file.read()
  
 setup(
-    name='remove_accents',
+    name='accents_remover',
     version='0.1.0',
     license='MIT License',
     author='Lincoln Oliver',
@@ -15,5 +15,5 @@ setup(
     description='A function to remove string accents withouth changing other characters',
     packages=['src'],
     install_requires=[],
-    url='https://github.com/lincolnolivr/remove_accents-pylib.git'
+    url='https://github.com/lincolnolivr/accents_remover-pylib.git'
 )
