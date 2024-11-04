@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
  
 setup(
     name='accents_remover',
-    version='0.1.4',
+    version='0.1.5',
     license='MIT License',
     author='Lincoln Oliver',
     long_description=readme,
